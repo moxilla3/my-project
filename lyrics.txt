@@ -1,0 +1,35 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red0\green0\blue233;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sa321
+
+\f0\b\fs48 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 The Rolling Stones - Sweet Virginia Lyrics\
+\pard\pardeftab720\sa240
+
+\b0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Artist: {\field{\*\fldinst{HYPERLINK "http://www.songlyrics.com/the-rolling-stones-lyrics/"}}{\fldrslt \cf3 \expnd0\expndtw0\kerning0
+\ul \ulc3 \outl0\strokewidth0 \strokec3 The Rolling Stones}}\
+Album: {\field{\*\fldinst{HYPERLINK "http://www.songlyrics.com/the-rolling-stones/exile-on-main-st/"}}{\fldrslt \cf3 \expnd0\expndtw0\kerning0
+\ul \ulc3 \outl0\strokewidth0 \strokec3 Exile On Main St.}}\
+Genre: {\field{\*\fldinst{HYPERLINK "http://www.songlyrics.com/rock-lyrics.php"}}{\fldrslt \cf3 \expnd0\expndtw0\kerning0
+\ul \ulc3 \outl0\strokewidth0 \strokec3 Rock}}\
+\pard\pardeftab720
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720\sa240
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Wadin' through the waste stormy winter\uc0\u8232 And there's not a friend to help you through\u8232 Tryin' to stop the waves behind your eyeballs\u8232 Drop your reds, drop your greens and blues\u8232 \u8232 Thank you for your wine, California\u8232 Thank you for your sweet and bitter fruits\u8232 Yes I got the desert in my toenail\u8232 And I hid the speed inside my shoe\u8232 \u8232 But come on, come on down sweet Virginia\u8232 Come on, honey child, beg you\u8232 Come on, come on down, you got it in you\u8232 Got to scrape that shit right off you shoes\u8232 \
+Yeah, I want you to come on, come on down sweet Virginia\
+\pard\pardeftab720
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 I want you come on, honey child, beg you\
+I want you come on, honey child you got it in you\
+Got to scrape that shit right off you shoes\
+\
+Come on, come on down sweet Virginia\
+Come on, come on down, beg you\
+Come on, come on down, you got it in you\
+Got to scrape that shit right off you shoes}
